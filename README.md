@@ -4,7 +4,7 @@
 
 ### Details
 
-	- For now, moodels are just objects that live in express app score
+	- For now, models are just objects that live in express app score
 
 	```
 		Test {id : 0, score: 99, subject : 'Physics', studentID : 2}
